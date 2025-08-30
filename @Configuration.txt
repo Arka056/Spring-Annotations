@@ -1,0 +1,3 @@
+@Configuration:
+  We can declare one or more numbers of beans inside the class that is annotated with @Configuration.
+  It may also be processed by Spring Container to generate Bean definitions, service requests for those beans at runtime. 
